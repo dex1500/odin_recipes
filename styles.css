@@ -1,0 +1,27 @@
+<! -- styles -- >
+
+body {background-color: royalblue;}
+
+.header {
+    color: blue;
+    font-family: verdana, courier, sans-serif;
+    font-size: 42px;
+}
+
+.bullet {
+    color: white;
+    background-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.list,
+.header {
+    text-align: center;
+}
+
+image {
+    text-align: center;
+}
