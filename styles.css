@@ -1,11 +1,10 @@
-<! -- styles -- >
 
-body {background-color: royalblue;}
 
 .header {
     color: blue;
     font-family: verdana, courier, sans-serif;
     font-size: 42px;
+    text-align: center;
 }
 
 .bullet {
@@ -17,11 +16,62 @@ body {background-color: royalblue;}
     text-align: center;
 }
 
-.list,
-.header {
+.bullet2 {
+    color: white;
+    background-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
     text-align: center;
 }
 
-image {
+.bullet3 {
+    color: blue;
+    background-color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bold;
     text-align: center;
+}
+
+.list {
+    text-align: center;
+}
+
+img {
+    height: 500px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headerrec1 {
+    color: brown;
+    font-family: verdana, courier, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.headerrec2 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-align: center;
+}
+
+.button {
+    color: gold;
+    background-color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
 }
